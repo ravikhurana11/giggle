@@ -1,2 +1,4 @@
 this is my first file
 another line in the first .txt file
+
+third line in featureC branch - first.txt
