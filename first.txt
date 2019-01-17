@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is my first file
 another line in the first .txt file
 
